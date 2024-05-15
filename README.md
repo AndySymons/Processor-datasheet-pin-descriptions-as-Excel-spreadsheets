@@ -25,3 +25,9 @@ This spreadsheet is transcribed from Espressif Systems "ESP32-S2 Series Datashee
 - ESP32-S2FN4R2
 - ESP32-S2R2
 
+### ESP32-WROOM-32, -32D, and -32U pin descriptions from datasheet
+This spreadsheet is transcribed from Espressif Systems' "ESP32-WROOM-32 Datasheet" version 3.3 (2022) and "ESP32­WROOM-­32D & ESP32-­WROOM­-32U Datasheet" version 2.4 (2023), which are exactly the same in respect of pinout. It covers:
+- ESP32-WROOM-32
+- ESP32­WROOM-­32D
+- ESP32-­WROOM­-32U
+
