@@ -7,8 +7,8 @@ My spreadsheet(s) transcribe the Pin Description table of the datasheet and then
 
 [This Github repository](https://github.com/AndySymons/Processor-datasheet-pin-descriptions-as-Excel-spreadsheets/tree/main) shares the fruits of my labours. I hope you find it useful too. 
 
-### ESP32
-The first one published is transcribed from Espressif Systems "ESP32 Series Datasheet" version 4.5 (2024), which covers:  
+### ESP32 Series (-D0x, -S0x, -U4x) pin descriptions from datasheet
+This spreadsheet is transcribed from Espressif Systems "ESP32 Series Datasheet" version 4.5 (2024), which covers:  
 - ESP32-D0WD-V3
 - ESP32-D0WDR2-V3
 - ESP32-U4WDH
@@ -17,5 +17,11 @@ The first one published is transcribed from Espressif Systems "ESP32 Series Data
 - ESP32-D0WDQ6
 - ESP32-D0WDQ6-V3  
 
-The next one will be for ESP32-S2. 
+### ESP32-S2 pin descriptions from datasheet
+This spreadsheet is transcribed from Espressif Systems "ESP32-S2 Series Datasheet" version 1.6 (2024), which covers:
+- ESP32-S2
+- ESP32-S2FH2
+- ESP32-S2FH4
+- ESP32-S2FN4R2
+- ESP32-S2R2
 
